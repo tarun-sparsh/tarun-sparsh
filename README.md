@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-sparsh&" alt="tarun-sparsh" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&show_icons=true&locale=en" alt="tarun-sparsh" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun-sparsh&show_icons=true&locale=en&layout=compact" alt="tarun-sparsh" /></p>
 
 
