@@ -38,7 +38,7 @@
 <h2 align="center"> Github Statistics 📈</h2>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&card_width=400px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true" />
