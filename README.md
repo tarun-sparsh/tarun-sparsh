@@ -38,12 +38,12 @@
 <h2 align="center"> Github Statistics 📈</h2>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true&card_width=500px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true&card_width=500px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tarun-sparsh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tarun-sparsh&theme=tokyonight&hide_border=true&&card_width=500px&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 
