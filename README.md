@@ -1,49 +1,87 @@
-<h1 align="center">Hi 👋, I'm Tarun Kumar Mahato</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi there, I'm Tarun Kumar Mahato 👋</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Building Web Solutions from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-sparsh&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-sparsh" /> </p>
-
-- 🔭 I’m currently working on **Aruvaa**
-
-- 🌱 I’m currently learning **NodeJs**
-
-- 💬 Ask me about **php,laravel,mysql,javascript,vuejs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/null_biter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/null_biter" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/null_biter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/null_biter/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarun-sparsh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
-### Regular Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=html,css,js,vue,react,php)](https://skillicons.dev)
+<p align="center">
+  I'm a Full Stack Developer with a strong passion for building dynamic, user-friendly, and efficient web applications. <br />
+  I thrive on tackling challenges and enjoy the entire development lifecycle, from brainstorming ideas to deploying solutions. <br />
+  Currently deepening my expertise in backend technologies while leveraging my skills in the PHP/Laravel and Vue.js ecosystems.
+</p>
 
-### Others Languages 🛠
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,ts,python,cpp,cs,dotnet)](https://skillicons.dev)
+---
 
-### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,laravel,react,redux,express,nodejs,electron&perline=5)](https://skillicons.dev)
+## 🌱 What I'm Currently Up To:
 
-### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,mongodb,firebase,appwrite&perline=5)](https://skillicons.dev)
+* 🔭 Working on **Aruvaa**
+* 🌱 Diving deeper into **Node.js** and asynchronous programming concepts.
+* 👯 Open to collaborating on interesting open-source projects or innovative ideas.
+* 💬 Feel free to ask me about: `PHP`, `Laravel`, `MySQL`, `JavaScript`, `Vue.js`
 
-### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,sublime,bash,powershell,git,github,githubactions,bitbucket,figma,ps,postman,notion,androidstudio,visualstudio,discord)](https://skillicons.dev)
+---
 
-### Operating System
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,debian)](https://skillicons.dev)
+## 🛠️ My Tech Stack & Tools
+
+Here's a glimpse of the technologies and tools I work with:
+
+**Languages & Core Technologies:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,kotlin,cs,cpp" />
+  </a>
+</p>
+
+**Frontend Development:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,redux,bootstrap,tailwind,sass" />
+  </a>
+</p>
+
+**Backend Development:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,dotnet,electron" />
+  </a>
+</p>
+
+**Databases & Cloud Platforms:**
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,appwrite" />
+  </a>
+</p>
+
+**IDEs, Tools & Environment:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,bash,powershell,vscode,visualstudio,androidstudio,sublime,postman,figma,ps,notion,discord,windows,ubuntu,debian" />
+  </a>
+</p>
+
+---
 
 
-<br/>
-<h2 align="center"> Github Statistics 📈</h2>
- 
-<a href="#">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true&card_width=494px" />
-</a>
-<a href="#">
-  <img height=180  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="#">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tarun-sparsh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br><br>
+## 📊 My GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true&rank_icon=github&card_width=494px" alt="Tarun's GitHub Stats"/>
+  <br/>&nbsp;<br/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true" alt="Tarun's Top Languages"/> &nbsp;
+  <img height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=tarun-sparsh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Tarun's GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out for collaboration, questions, or just a friendly chat!
+
+<p align="center">
+  <a href="https://twitter.com/null_biter" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a> &nbsp;
+  <a href="https://www.instagram.com/null_biter/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a> &nbsp;
+  </p>
+
+---
