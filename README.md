@@ -66,12 +66,13 @@ Here's a glimpse of the technologies and tools I work with:
 
 ## 📊 My GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true&rank_icon=github&card_width=494px" alt="Tarun's GitHub Stats"/>
-  <br/>&nbsp;<br/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true" alt="Tarun's Top Languages"/> &nbsp;
-  <img height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=tarun-sparsh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Tarun's GitHub Streak"/>
-</p>
+<a href="#">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-sparsh&theme=dark&hide_border=true&show_icons=true&card_width=494px" />
+</a>
+<a href="#">
+  <img height=180  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-sparsh&layout=compact&theme=dark&hide_border=true" />
+</a>
+<br><br>
 
 ---
 
